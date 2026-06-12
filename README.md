@@ -38,7 +38,7 @@ I'm a **Computer Science Engineering student** (2023–2026) with a prior **Dipl
 
 | Role | Organization | Duration | Highlights |
 |------|--------------|----------|------------|
-| **Python Full Stack Intern** | Qspiders | Feb 2024 – Present | Building web apps using Django & MySQL; developing REST APIs; version control with Git; frontend integration with HTML/CSS/JS. |
+| **Python Full Stack Intern** | Qspiders | Feb 202 – May 2026 | Building web apps using Django & MySQL; developing REST APIs; version control with Git; frontend integration with HTML/CSS/JS. |
 
 ---
 
@@ -47,7 +47,7 @@ I'm a **Computer Science Engineering student** (2023–2026) with a prior **Dipl
 - 🎯 **Lung Cancer Prediction System:** Built ML model (Logistic Regression/Random Forest) achieving strong accuracy; performed data preprocessing, feature engineering, and evaluation using precision & recall metrics.
 - 📊 **SQL Proficiency:** Advanced queries including window functions, complex joins, and subqueries for data analysis.
 - 🎨 **Responsive UI Development:** Created multiple structured web pages with clean UI design principles using HTML5 & CSS3.
-- 📈 **Academic Excellence:** Diploma CGPA of **8.5** | SSLC: **85%**
+ 📈 **Academic Excellence:** Diploma CGPA of **8.5** | SSLC: **85%** |B.E in Computer Scince CGPA of **7.9**
 
 ---
 
