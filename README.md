@@ -69,7 +69,7 @@ me.say_hi()
 <br/>
 
 ---
-[![Download CV](https://img.shields.io/badge/Download%20CV-FF2D78?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](YOUR_CV_LINK_HERE)
+[![Download CV](https://img.shields.io/badge/Download%20CV-FF2D78?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)]([YOUR_CV_LINK_HERE](https://github.com/gnaneshkumardp765-lgtm/My-CV/blob/main/GNANESH_DP_RESUME.pdf))
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"/> &nbsp;Tech Arsenal
 
